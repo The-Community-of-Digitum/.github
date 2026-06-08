@@ -1,4 +1,4 @@
-# 🇩🇬 The Republic of Digitum
+# The Republic of Digitum
 
 Welcome to the official GitHub home of **The Republic of Digitum** — a tiny digital nation built on creativity, PCGs (Protected Cultural Goods), and the sacred art of Deep‑Fried Bread.
 
